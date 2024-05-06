@@ -12,6 +12,7 @@ public class CorsMvcConfig implements WebMvcConfigurer {
 
         corsRegistry.addMapping("/**")
                 .allowedOrigins("http://localhost:8081")
+                .allowedOrigins("http://easyoms.store", "http://www.easyoms.store")
                 .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
                 .allowedHeaders("*")
                 .allowedOriginPatterns("*");;

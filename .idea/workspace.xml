@@ -34,9 +34,9 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "0.1.0/registerPage/J",
+    "git-widget-placeholder": "dev1/0.3.6",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "//wsl$/Ubuntu-22.04/home/playdata/final",
+    "last_opened_file_path": "//wsl.localhost/Ubuntu-22.04/home/mini/final/4team_final_MainSpring",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -55,13 +55,6 @@
       </method>
     </configuration>
   </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-17.0.9-corretto-17.0.9-4caba194b151-107bc6b7" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -72,6 +65,9 @@
       <updated>1710830089201</updated>
       <workItem from="1710830090241" duration="530000" />
       <workItem from="1710830631915" duration="17000" />
+      <workItem from="1711067684231" duration="64000" />
+      <workItem from="1711609538542" duration="51000" />
+      <workItem from="1713421869686" duration="412000" />
     </task>
     <servers />
   </component>
